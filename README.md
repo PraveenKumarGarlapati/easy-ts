@@ -11,5 +11,5 @@ This package is built on top of many existing modules.
 
     pip install easy-ts
 ---
-    from easy-ts import tseda(dataframe, exogenous_variables_list)
+    from easy-ts import tseda(dataframe, exogenous_variables_list) 
 
