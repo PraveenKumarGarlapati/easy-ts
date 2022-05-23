@@ -13,6 +13,6 @@ This package is built on top of many existing modules.
 ---
     from easy-ts import tseda(dataframe, exogenous_variables_list) 
 
-
+## As of now - no Progress | Dated 23rd May
 
 ..
